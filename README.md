@@ -1,7 +1,5 @@
 # Chi-Chi’s Pizza demo website
 
-- Business: Chi-Chi’s Pizza
-- Category: restaurant
-- Where: 23043 Soledad Canyon Road, Santa Clarita
-- Verification: No website/contact:website tag in OpenStreetMap for this Santa Clarita listing; known chains/franchises and public amenities were filtered out. External reason for lacking a site is unconfirmed until owner contact.
-- Possible domains: chichispizzascv.com, chichispizzasantaclarita.com
+A Santa Clarita restaurant serving local customers. The demo site explains services, location, trust signals, and a simple next step so searchers can call, visit, book, or request information.
+
+Verification: No website/contact:website tag in the OpenStreetMap Santa Clarita listing; known chains/franchises/public amenities were filtered out. The exact reason for no site is unconfirmed until owner contact.
